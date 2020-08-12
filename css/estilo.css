@@ -1,0 +1,190 @@
+#colorBackground{
+
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	background-color: #2c3e50;
+	border-bottom: 2px solid #e74c3c;
+
+}
+
+.colorPadd{
+
+	padding-bottom: solid 2px #2c3e50;
+
+}
+
+
+body{
+
+	background-color: #34495e;
+
+}
+
+.containerBackground{
+
+	border-radius: 5px;
+	background-color: #2c3e50;
+
+
+}
+
+.colorPagina{
+
+	color: #e74c3c;
+
+}
+
+.borderSpan{
+
+	border-bottom: 2px solid #e74c3c;
+
+}
+
+.tamanioLetrah1{
+
+	font-size: 2.4em;
+
+}
+
+
+
+.tamanioLetrah2{
+
+	font-size: 2em;
+
+}
+
+.btnCDEC{
+	
+	color: white;
+	background-color: none;
+	border-color: #e74c3c;
+
+}
+
+.btnCDEC:hover{
+	
+	color: #2c3e50;
+	background-color: #e74c3c; 
+	border-color: #e74c3c;
+
+}
+
+
+.colorBackground2{
+
+	border-radius: 10px;
+	background-color: #2c3e50;
+
+
+}
+
+
+#colorBackground3{
+
+	border-color: #e74c3c;
+	background-color: #e74c3c;
+
+
+}
+
+.colorPadd{
+
+
+	color: white;
+
+}
+
+
+/*------------------------------ PARTE PRINCIPAL CSM ----------------------------*/
+
+
+.paddingA{
+
+	transition: all 0.2s;
+	border:none;
+	color: #e74c3c;
+	background-color: #2c3e50;
+
+
+}
+
+.paddingA:hover{
+
+	color: white;
+	background-color: #e74c3c;
+	transition: all 0.2s;
+
+}
+
+
+
+.list-group{
+
+
+	border-radius: 10px;
+
+}
+
+
+
+.font-weight-bold{
+
+	transition: all 0.3s;
+
+}
+
+
+/*------------------------------ PARTE REGLAS CSM ----------------------------*/
+
+.card{
+
+	border-radius: 5px;
+	border: solid 2px #e74c3c;
+
+}
+
+.card-header{
+
+
+background-color: #2c3e50;
+background-color: #283747; 
+
+}
+
+.card-body{
+
+	color: #bdc3c7;
+	background-color: #253241;
+	border: none;
+}
+
+.btnReglas{
+
+	color: #e74c3c;
+
+}
+
+.btnReglas:hover{
+
+	color: white;
+
+}
+
+.volverCDEC{
+
+	transition: all 0.3s;
+	text-decoration: none;
+	color: #bdc3c7;
+
+}
+
+.volverCDEC:hover{
+
+	transition: all 0.3s;
+	text-decoration: none;
+	color: #e74c3c;
+
+}
+
+
+/*------------------------------ PARTE DESCRIPCION CSM ----------------------------*/
